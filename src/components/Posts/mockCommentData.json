@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "data": [
+    {
+      "id": "c74be8b1-a6a3-4f38-b989-af68059584fb",
+      "username": "ali",
+      "firstname": "Ali",
+      "lastname": "Ahmadi",
+      "parentId": null,
+      "postId": "Gdkdlyxltxyxlyxlglg",
+      "description": "first comment",
+      "likeCount": 2,
+      "createdAt": "2024-08-12 09:43:31.408585"
+    },
+    {
+      "id": "0ce36470-3686-452b-af3f-1c02a1a72de6",
+      "username": "arefe",
+      "firstname": "Arefe",
+      "lastname": "Alavi",
+      "parentId": "c74be8b1-a6a3-4f38-b989-af68059584fb",
+      "postId": "Gdkdlyxltxyxlyxlglg",
+      "description": "second comment",
+      "likeCount": 5,
+      "createdAt": "2024-08-19 10:56:36"
+    }
+  ]
+}
